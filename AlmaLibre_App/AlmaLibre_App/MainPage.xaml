@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+    <!---
+    <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AlmaLibre_App.MainPage">
+
+    <StackLayout>
+        <StackLayout BackgroundColor="#2196F3" Padding="10,20,10,10">
+            <Label Text="Yamy" FontSize="Large" FontAttributes="Bold" TextColor="White" HorizontalTextAlignment="Center" />
+            <Label Text="IP del servidor:" VerticalTextAlignment="Center" />
+            <Entry x:Name="ServerAddressEntry" Keyboard="Url"  Placeholder="0.0.0.0" WidthRequest="120" MaxLength="15" />
+        </StackLayout>
+
+        <StackLayout VerticalOptions="Center" HorizontalOptions="Center">
+            <Entry x:Name="ProductCode" Placeholder="Introduce el código del producto" Keyboard="Numeric"/>
+            <Button Text="Buscar" Clicked="OnSearchClicked"/>
+            <TableView x:Name="ProductDetails" IsVisible="False">
+                <TableRoot>
+                    <TableSection>
+                        <TextCell Text="Nombre" Detail="{Binding nombre}" />
+                        <TextCell Text="Marca" Detail="{Binding marca}" />
+                        <TextCell Text="Talle" Detail="{Binding talle}" />
+                        <TextCell Text="Color" Detail="{Binding color}" />
+                        <TextCell Text="Precio" Detail="{Binding precio}" />
+                    </TableSection>
+                </TableRoot>
+            </TableView>
+        </StackLayout>
+
+    </StackLayout>
+</ContentPage>
+    -->
+    
+    
+
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AlmaLibre_App.MainPage">
+    <ContentPage.Content>
+        <Grid>
+            <Image Source="@drawable/background" Aspect="AspectFill" />
+
+            <StackLayout>
+                <StackLayout BackgroundColor="#2196F3" Padding="10,20,10,10">
+                    <Label Text="Yamy" FontSize="Large" FontAttributes="Bold" TextColor="White" HorizontalTextAlignment="Center" />
+                    <Label Text="IP del servidor:" VerticalTextAlignment="Center" />
+                    <Entry x:Name="ServerAddressEntry" Keyboard="Url"  Placeholder="0.0.0.0" WidthRequest="120" MaxLength="15" />
+                </StackLayout>
+
+                <StackLayout VerticalOptions="Center" HorizontalOptions="Center">
+                    <Entry x:Name="ProductCode" Placeholder="Introduce el código del producto" Keyboard="Numeric"/>
+                    <Button Text="Buscar" Clicked="OnSearchClicked"/>
+                    <TableView x:Name="ProductDetails" IsVisible="False">
+                        <TableRoot>
+                            <TableSection>
+                                <TextCell Text="Nombre" Detail="{Binding nombre}" />
+                                <TextCell Text="Marca" Detail="{Binding marca}" />
+                                <TextCell Text="Talle" Detail="{Binding talle}" />
+                                <TextCell Text="Color" Detail="{Binding color}" />
+                                <TextCell Text="Precio" Detail="{Binding precio}" />
+                            </TableSection>
+                        </TableRoot>
+                    </TableView>
+                </StackLayout>
+            </StackLayout>
+        </Grid>
+    </ContentPage.Content>
+</ContentPage>
+
+

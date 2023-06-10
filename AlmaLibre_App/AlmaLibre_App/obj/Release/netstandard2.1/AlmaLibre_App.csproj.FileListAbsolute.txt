@@ -1,0 +1,15 @@
+D:\GIT\YamyApp\AlmaLibre_App\AlmaLibre_App\bin\Release\netstandard2.1\YamyApp.deps.json
+D:\GIT\YamyApp\AlmaLibre_App\AlmaLibre_App\bin\Release\netstandard2.1\YamyApp.dll
+D:\GIT\YamyApp\AlmaLibre_App\AlmaLibre_App\bin\Release\netstandard2.1\ref\YamyApp.dll
+D:\GIT\YamyApp\AlmaLibre_App\AlmaLibre_App\bin\Release\netstandard2.1\YamyApp.pdb
+D:\GIT\YamyApp\AlmaLibre_App\AlmaLibre_App\obj\Release\netstandard2.1\AlmaLibre_App.csproj.AssemblyReference.cache
+D:\GIT\YamyApp\AlmaLibre_App\AlmaLibre_App\obj\Release\netstandard2.1\AlmaLibre_App.GeneratedMSBuildEditorConfig.editorconfig
+D:\GIT\YamyApp\AlmaLibre_App\AlmaLibre_App\obj\Release\netstandard2.1\App.xaml.g.cs
+D:\GIT\YamyApp\AlmaLibre_App\AlmaLibre_App\obj\Release\netstandard2.1\MainPage.xaml.g.cs
+D:\GIT\YamyApp\AlmaLibre_App\AlmaLibre_App\obj\Release\netstandard2.1\AlmaLibre_App.AssemblyInfoInputs.cache
+D:\GIT\YamyApp\AlmaLibre_App\AlmaLibre_App\obj\Release\netstandard2.1\AlmaLibre_App.AssemblyInfo.cs
+D:\GIT\YamyApp\AlmaLibre_App\AlmaLibre_App\obj\Release\netstandard2.1\AlmaLibre_App.csproj.CoreCompileInputs.cache
+D:\GIT\YamyApp\AlmaLibre_App\AlmaLibre_App\obj\Release\netstandard2.1\XamlC.stamp
+D:\GIT\YamyApp\AlmaLibre_App\AlmaLibre_App\obj\Release\netstandard2.1\YamyApp.dll
+D:\GIT\YamyApp\AlmaLibre_App\AlmaLibre_App\obj\Release\netstandard2.1\ref\YamyApp.dll
+D:\GIT\YamyApp\AlmaLibre_App\AlmaLibre_App\obj\Release\netstandard2.1\YamyApp.pdb

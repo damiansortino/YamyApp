@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "6SBmqUf/wA+cShQ/UaDETQOIeTN2tPRvEPFOmVmyrHPzT2Q3S7yLx9cSFtlW/SWTCjMmDp70kwgCQ+5soA4Mxw==",
+  "success": true,
+  "projectFilePath": "D:\\GIT\\YamyApp\\AlmaLibre_App\\AlmaLibre_App.iOS\\AlmaLibre_App.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\damia\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\damia\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\damia\\.nuget\\packages\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512",
+    "C:\\Users\\damia\\.nuget\\packages\\xamarin.forms\\5.0.0.2012\\xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}
